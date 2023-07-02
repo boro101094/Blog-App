@@ -1,9 +1,11 @@
 # Blog-App
 
 ## Description
-This appplication contains an API that simulates a basic API that support the CRUD opperations for an e-commerce bussiness.
+This application shows a Blog APP where the user will have to signUp, to create blog post.
 
-The API will let the user create, delete, update, get all and get one elements from the DB.
+Also the LogIn user will be able to edit and delete their own blogs post.
+
+Other users will be able to comment on other users blog post.
 
 ## Installation
 
@@ -43,8 +45,12 @@ nodemon server.js
 
 ## Screenshots
 
-Get all the elemnts
+Create a BLOG
 ![](./img/createBlog.png)
+
+Comment on a Blog
 ![](./img/commet.png)
 
+
+Update/Delete Blog
 ![](./img/update.png)
