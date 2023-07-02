@@ -43,7 +43,8 @@ nodemon server.js
 
 ## Screenshots
 
+Get all the elemnts
+![](./img/createBlog.png)
+![](./img/commet.png)
 
-
-## Usage Video
-https://drive.google.com/file/d/1HNITif3szBgqtvu32UxfNAneXY6VI8WE/view?usp=drive_link
+![](./img/update.png)
